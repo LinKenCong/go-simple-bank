@@ -1,3 +1,9 @@
-go、docker、postgraSQL、migration、sqlc、testify
+# go-simple-bank
 
-数据库事务必须满足 AICD属性: 原子性、一致性、隔离性、持久性。
+### 技术栈
+go、docker、postgraSQL、migration、sqlc、testify、workflows
+
+### 功能模块
+ - 账户
+ - 账单流水
+ - 转账交易
